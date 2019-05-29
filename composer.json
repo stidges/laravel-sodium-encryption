@@ -1,5 +1,5 @@
 {
-    "name": "stidges/laravel-sodium-encrypter",
+    "name": "stidges/laravel-sodium-encryption",
     "type": "library",
     "description": "A Sodium based encrypter class for Laravel",
     "keywords": [
